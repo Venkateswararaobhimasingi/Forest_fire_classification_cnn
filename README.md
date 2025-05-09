@@ -1,0 +1,1 @@
+# Forest_fire_classification_cnn
